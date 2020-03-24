@@ -8,10 +8,9 @@ module.exports = {
         email: 'tvrz@tvrz.net',
         fbEventId: '568874620710092',
         fields: {
-            name: 'entry.1606860186',
-            email: 'entry.728518451',
-            message: 'entry.912514459',
-            photoAgreement: 'entry.800247354',
+            name: 'entry.669259310',
+            email: 'entry.2050101568',
+            message: 'entry.2050101568',
         },
         prices: {
             base: 0,

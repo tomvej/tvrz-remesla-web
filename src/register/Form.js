@@ -1,21 +1,18 @@
-import * as R from 'ramda';
-import React from 'react';
-import PropTypes from 'prop-types';
-import {reduxForm} from 'redux-form';
-import {connect} from 'react-redux';
-import {useStaticQuery, graphql} from 'gatsby';
+import * as R from "ramda"
+import React from "react"
+import PropTypes from "prop-types"
+import { reduxForm } from "redux-form"
+import { connect } from "react-redux"
+import { graphql, useStaticQuery } from "gatsby"
 
-import {TextInput, PhotoAgreementText, Checkbox, CheckboxLayout, StringInput} from './components';
-import {Field} from './containers';
-import {required, validEmail} from './utils';
-import submit from './submit';
-import {getIntervals} from './selectors';
-import {SubmitContainer, Sum} from './containers';
-import {REGISTRATION_FORM} from './constants';
-import {ErrorAlert, Center} from './components';
-import Schedule from './Schedule';
+import { Center, ErrorAlert, StringInput, TextInput } from "./components"
+import { Field, SubmitContainer } from "./containers"
+import { required, validEmail } from "./utils"
+import { getIntervals } from "./selectors"
+import { REGISTRATION_FORM } from "./constants"
+import { submit } from "./actions"
 
-import bootstrap from '../bootstrap.module.scss';
+import bootstrap from "../bootstrap.module.scss"
 
 const Form = ({handleSubmit, error}) => {
     const {site: {siteMetadata: {fields}}} = useStaticQuery(graphql`
@@ -26,7 +23,6 @@ const Form = ({handleSubmit, error}) => {
                         name
                         email
                         message
-                        photoAgreement
                     }
                 }
             }
@@ -56,25 +52,13 @@ const Form = ({handleSubmit, error}) => {
                     />
                 </div>
             </div>
-            <Schedule />
             {error && <ErrorAlert>{error}</ErrorAlert>}
-            <Center>
-                <Sum />
-            </Center>
             <Field
                 component={TextInput}
                 name="message"
                 placeholder="Chceš nám něco vzkázat?"
                 id={fields.message}
             />
-            <Field
-                name="photo-agreement"
-                label="Uděluji souhlas s focením"
-                component={Checkbox}
-                layout={CheckboxLayout}
-                id={fields.photoAgreement}
-            />
-            <PhotoAgreementText />
             <Center>
                 <SubmitContainer />
             </Center>
@@ -99,7 +83,7 @@ export default R.compose(
     connect(mapStateToProps),
     reduxForm({
         form: REGISTRATION_FORM,
-        onSubmit: submit,
+        onSubmit: (values, dispatch) => dispatch(submit(values)),
         initialValues: {
             'photo-agreement': true,
         },

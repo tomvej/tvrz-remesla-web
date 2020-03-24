@@ -7,7 +7,7 @@ import SubmitButton from './SubmitButton';
 
 const SubmitContainer = ({submitted}) => {
     if (submitted) {
-        return <PrimaryAlert>Děkujeme za přihlášku. Brzy ti pošleme e-mail s dalšími informacemi.</PrimaryAlert>;
+        return <PrimaryAlert>Děkujeme za přihlášku. Do 15. 5. se ti ozveme.</PrimaryAlert>;
     } else {
         return <SubmitButton />;
     }

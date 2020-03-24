@@ -1,9 +1,7 @@
-Pokud tě tato akce zaujala a chceš se zúčastnit, vyplň, prosím, následující formulář.
-Kromě kontaktních údajů po tobě budeme chtít bloky řemesel, které si chceš vyzkoušet.
-Po přihlášení ti do několika dní pošleme e-mail s&nbsp;dalšími informacemi a podrobnější dotazník,
-kde můžeš vyplnit, kdy se chystáš přijet, kdy odjet, a další organizační informace.
+V současné době nejsme schopni zajistit, že se akce bude konat. Pokud tě však zaujala a chceš se zúčastnit,
+vyplň následující formulář a my ti do 15. 5. napíšeme e-mail, jestli se akce koná a kdy začne přihlašování.
+Zároveň nám, prosím, napiš, o která řemesla máš zájem.
 
-Platbu od tebe budeme chtít do týdne od té doby, co ti pošleme platební informace. Do té doby
-máš rezervované vybrané bloky řemesel, potom tvou přihlášku zrušíme, aby se mohli přihlásit ostatní.
-
-Osobní údaje, které nám poskytneš, použijeme pouze pro účely komunikace spojené s&nbsp;akcí.
+To, že nám pošleš svůj e-mail tě k ničemu nezavazuje. Až spustíme přihlašování, budeš se moct přihlásit závazně
+a vybrat si bloky řemesel, kterých se zúčastníš. Tvůj e-mail použijeme pouze k tomu, abychom tě informovali
+o tom, jestli se akce bude konat.

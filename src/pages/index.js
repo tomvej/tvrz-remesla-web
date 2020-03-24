@@ -1,12 +1,13 @@
 import React from 'react'
 import {graphql, useStaticQuery} from 'gatsby';
 import SEO from "../components/seo"
-import {Section, Navbar, NavItem, TwoColumn} from '../components';
+import { Section, Navbar, NavItem, TwoColumn, ScrollLink } from "../components"
 import {Footer, Masthead, Contact, Crafts, Info} from '../containers';
 import Register from '../register';
 
 import './style.scss';
 import {renderMarkdown} from '../utils';
+import { ErrorAlert } from "../register/components"
 
 export default () => {
     const {background, site, about, register} = useStaticQuery(graphql`
@@ -47,6 +48,13 @@ export default () => {
             </Navbar>
             <Masthead />
             <Section name="about">
+                <ErrorAlert>
+                    <p>V současné situaci nejsme schopni zajistit, že se akce bude konat. Nechceme pořádat akci, která by mohla ohrozit
+                        účastníky a jejich blízké. Proto ještě nespouštíme přihlašování.</p>
+                    <p>Pokud víš, že bys na Řemesla jel/a, můžeš nám napsat a my ti nejpozději 14 dní dopředu
+                        (tj. do 15.&nbsp;5.) dáme vědět, jestli se bude konat nebo ne a kdy zahájíme přihlašování.
+                        Více viz <ScrollLink href="#register" to="register">předběžná přihláška</ScrollLink>.</p>
+                </ErrorAlert>
                 {renderMarkdown(about.childMarkdownRemark.htmlAst)}
             </Section>
             <Section
@@ -62,7 +70,7 @@ export default () => {
                 <Crafts />
             </Section>
             <Section name="register">
-                <h2>Přihláška</h2>
+                <h2>Předběžná přihláška</h2>
                 {renderMarkdown(register.childMarkdownRemark.htmlAst)}
                 <Register />
             </Section>

@@ -28,6 +28,10 @@ Na akci nic nevyděláváme, veškerý případný zisk půjde do údržby
 a zvelebování středověké vesničky v&nbsp;Příkopu.
 Organizátoři a mistři pracují bez nároku na odměnu.
 
+# Kolik platím
+Za jeden blok řemesel, který trvá čtyři a půl hodiny, zaplatíš mezi 300 a 800 korunami.
+Cena bloku je dána cenou materiálu: Například výroba nože patří k těm dražším,
+protože zahrnuje kupovanou čepel.
 
 # Storno poplatky
 Storno poplatky činí 30&nbsp;%, pokud se odhlásíš do 30.&nbsp;4.,

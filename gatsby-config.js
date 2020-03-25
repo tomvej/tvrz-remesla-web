@@ -10,7 +10,7 @@ module.exports = {
         fields: {
             name: 'entry.669259310',
             email: 'entry.2050101568',
-            message: 'entry.2050101568',
+            message: 'entry.1065182130',
         },
         prices: {
             base: 0,

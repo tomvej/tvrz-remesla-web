@@ -56,7 +56,7 @@ const Form = ({handleSubmit, error}) => {
             <Field
                 component={TextInput}
                 name="message"
-                placeholder="Chceš nám něco vzkázat?"
+                placeholder="O která řemesla máš zájem? Chceš nám vzkázat něco dalšího?"
                 id={fields.message}
             />
             <Center>

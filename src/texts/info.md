@@ -20,10 +20,6 @@ zahrnutý materiál, jídlo a náklady na organizaci akce. Taky z&nbsp;ní
 budeme pokrývat další výdaje jako například dopravu a stravování
 organizátorů.
 
-<!-- Kromě toho máš možnost pomoct nám s&nbsp;pracemi v&nbsp;Příkopu a tím
-si "odpracovat" část ceny akce. Bloky brigád najdeš v&nbsp;přihlášce
-a za každý ti strhneme 300 Kč z&nbsp;ceny. -->
-
 Na akci nic nevyděláváme, veškerý případný zisk půjde do údržby
 a zvelebování středověké vesničky v&nbsp;Příkopu.
 Organizátoři a mistři pracují bez nároku na odměnu.
@@ -43,8 +39,7 @@ organizátorů vracíme 100&nbsp;% uhrazené částky.
 Naše černá kuchyně bude vařit po celou dobu akce. Kromě krátké pauzy na oběd
 v&nbsp;řemeslných blocích nejsou přestavky, ale pokud budeš mít hlad,
 přestávku si udělat můžeš, v&nbsp;kuchyni se vždycky něco najde. V&nbsp;ceně
-je svačina a večeře, v&nbsp;sobotu i oběd (to samé, pokud budeš u&nbsp;nás
-dopoledne na brigádě).
+je svačina a večeře, v&nbsp;sobotu i oběd.
 
 Chystáme sobotní a nedělní oběd, sobotní večeři a nedělní snídani.
 

@@ -2,14 +2,9 @@
 Řemesla na Tvrzi rosické je workshop tradičních řemesel, který tě v sobotu 30.
 a neděli 31.&nbsp;května přenese do 14.&nbsp;století na panství rosické.
 
-Zatímco si pan purkrabí bude vyřizovat účty s&nbsp;nezbedným písařem, ty se staneš
-řemeslným učedníkem. Pod vedením zkušeného mistra si vyrobíš doplněk ke svému
-historickému šatu, předmět denní potřeby, či si jen vyzkoušíš tradiční postupy.
-Mezitím co budeš v&nbsp;potu tváře vyrábět svůj nůž, tepat měděný prsten pro svou
-lásku či motat skleněné vinuté korálky pro radost, z&nbsp;otevřené kuchyně
-se již bude linout vůně dušeniny. Když na chvíli odtrhneš svůj zrak od práce,
-uslyšíš hovory poddaných při opravě doškové střechy a možná zjistíš, jaké životy
-vedou lidé na panství.
+Staneš se řemeslným učedníkem a pod vedením zkušeného mistra si vyrobíš doplněk ke svému historickému šatu, předmět denní potřeby,
+či si jen vyzkoušíš tradiční postupy. Mezitím co budeš v potu tváře vyrábět svůj nůž, tepat měděný prsten pro svou lásku
+či motat skleněné vinuté korálky pro radost, z otevřené kuchyně se již bude linout vůně dušeniny.
 
 Díky kulisám středověké vesničky a interakcím kostýmovaným lidí zažiješ jedinečnou
 atmosféru a navíc si odneseš vlastnoruční dílo.

@@ -1,5 +1,5 @@
 # Kdy?
-Akce je odložena na zatím nespecifikovaný termín. Doufáme, že to bude během letních prázdnin nebo na podzim.
+Akce je odložena na zatím nespecifikovaný termín. Doufáme, že ji uspořádáme během letních prázdnin nebo na podzim.
 
 V&nbsp;základu počítáme, že se zdržíš na svůj vybraný blok řemesel,
 můžeš ale přijet na libovolnou část akce. Pokud chceš přijet dříve

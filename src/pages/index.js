@@ -53,7 +53,7 @@ export default () => {
                         jakou si přejeme. Z toho důvodu Řemesla přesouváme na jiný, zatím blíže nespecifikovaný termín, který zveřejníme zde a na <a href="https://www.facebook.com/events/568874620710092/">facebookové stránce akce</a>.</p>
                     <p>Doufáme v termín během letních prázdnin nebo podzimu, nemůžeme ale v tuto chvíli nic zaručit. Kdybyste měli zájem o jiný typ akce, v druhé polovině
                         srpna pořádáme desetidenní zážitkovku <a href="https://alchymista.instruktori.cz">Alchymistův učeň</a>.</p>
-                    <p>Díky za Vaši důvěru a podporu</p>
+                    <p>Díky za Vaši důvěru a podporu.</p>
                 </ErrorAlert>
                 {renderMarkdown(about.childMarkdownRemark.htmlAst)}
             </Section>

@@ -1,6 +1,6 @@
-V současné době nejsme schopni zajistit, že se akce bude v daném termínu konat. Pokud tě však zaujala a chceš se zúčastnit,
-vyplň následující formulář a my ti do 15. 5. napíšeme e-mail, jestli se akce koná v původním termínu nebo ji přesuneme.
-Navíc, v případě, že se akce bude pořádat v náhradním termínu, budeš mít přednostní právo přihlášení.
+V současné době není možné zajistit takovou bezpečnost a kvalitu akce, jakou si přejeme. Z toho důvodu Řemesla přesouváme na jiný,
+zatím blíže nespecifikovaný termín. Pokud tě však akce zaujala a chceš se ji zúčastnit, vyplň následující formulář a my ti napíšeme e-mail,
+až bude jasné, jaký bude termín a kdy budeme spouštět přihlašování.
 
 Zároveň nám, prosím, napiš, o která řemesla máš zájem.
 

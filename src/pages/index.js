@@ -1,13 +1,13 @@
-import React from 'react'
+import React from 'react';
 import {graphql, useStaticQuery} from 'gatsby';
-import SEO from "../components/seo"
-import { Section, Navbar, NavItem, TwoColumn, ScrollLink } from "../components"
-import {Footer, Masthead, Contact, Crafts, Info} from '../containers';
+import SEO from '../components/seo';
+import {Navbar, NavItem, Section, TwoColumn} from '../components';
+import {Contact, Crafts, Footer, Info, Masthead} from '../containers';
 import Register from '../register';
 
 import './style.scss';
 import {renderMarkdown} from '../utils';
-import { ErrorAlert } from "../register/components"
+import {ErrorAlert} from '../register/components';
 
 export default () => {
     const {background, site, about, register} = useStaticQuery(graphql`
@@ -49,11 +49,11 @@ export default () => {
             <Masthead />
             <Section name="about">
                 <ErrorAlert>
-                    <p>V současné situaci nejsme schopni zajistit, že se akce bude v daném termínu konat. Nechceme pořádat akci, která by mohla ohrozit
-                        účastníky a jejich blízké. Proto ještě nespouštíme přihlašování.</p>
-                    <p>Pokud víš, že bys na Řemesla jel/a, můžeš nám napsat a my ti nejpozději 14 dní dopředu
-                        (tj. do 15.&nbsp;5.) dáme vědět, jestli se budou konat v původním termínu nebo je přesuneme
-                        a kdy zahájíme přihlašování. Více viz <ScrollLink href="#register" to="register">předběžná přihláška</ScrollLink>.</p>
+                    <p>Jakkoli se situace s koronavirem vyvíjí mírně pozitivně, není možné v tuto chvíli, i s ohledem na vládní nařízení, zajistit takovou bezpečnost a kvalitu akce,
+                        jakou si přejeme. Z toho důvodu Řemesla přesouváme na jiný, zatím blíže nespecifikovaný termín, který zveřejníme zde a na <a href="https://www.facebook.com/events/568874620710092/">facebookové stránce akce</a>.</p>
+                    <p>Doufáme v termín během letních prázdnin nebo podzimu, nemůžeme ale v tuto chvíli nic zaručit. Kdybyste měli zájem o jiný typ akce, v druhé polovině
+                        srpna pořádáme desetidenní zážitkovku <a href="https://alchymista.instruktori.cz">Alchymistův učeň</a>.</p>
+                    <p>Díky za Vaši důvěru a podporu</p>
                 </ErrorAlert>
                 {renderMarkdown(about.childMarkdownRemark.htmlAst)}
             </Section>

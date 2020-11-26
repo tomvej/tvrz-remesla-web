@@ -28,7 +28,7 @@
     "gatsby-transformer-sharp": "2.3.12",
     "intersection-observer": "0.7.0",
     "invariant": "2.2.4",
-    "node-sass": "4.13.0",
+    "node-sass": "4.13.1",
     "prop-types": "15.7.2",
     "query-string": "6.10.1",
     "ramda": "0.26.1",
